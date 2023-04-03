@@ -4,10 +4,10 @@ import csv
 from requests.exceptions import Timeout
 
 # Authenticate with a personal access token
-g = Github("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")
+g = Github("github_token")
 
 # Define the repos
-repos = ["pH-7/Simple-Java-Calculator"]
+repos = ["owner/repo"]
 
 # Iterate over the repos
 for repo_name in repos:

@@ -1,0 +1,411 @@
+Issue 93 - Author: jdrysdaleandesrson
+On macOS the JTextArea for the "text" was too wide and made it so the user could not see the numbers being inputed as they were off the frame. Also, updated button symbols with super scripts.
+
+Issue 92 - Author: jdrysdaleandesrson
+On macOS the JTextArea for the "text" was too wide and made it so the user could not see the numbers being inputed as they were off the frame. Also, updated button symbols with super scripts.
+
+Issue 91 - Author: jdrysdaleandesrson
+On macOS the JTextArea for the "text" was too wide and made it so the user could not see the numbers being inputed as they were off the frame. Also, updated button symbols with super scripts.
+
+Issue 90 - Author: af4092
+Hello there, I'm back :) 
+
+I created jar file on Eclipse maven. It has pom.xml and other dependencies. Is that the one that you were asking last time? If it is not please provide some more details, so that I can learn and re-update. Thank you for time.
+
+Issue 89 - Author: cgmpinos
+I have added the div and mod operators for integer numbers for #88.
+![calculator](https://user-images.githubusercontent.com/92669146/218540969-218029bb-7b5c-4670-aca2-c8e2f7dbcb95.png)
+
+
+Issue 88 - Author: cgmpinos
+Suggestion for new feature
+
+I noticed that the calculator does not offer the modulo operation (which returns the remainder during a division of two numbers).
+So, I could add this specific feature.
+
+Issue 87 - Author: af4092
+1. I've added new button for the Calculator: ln (natural logarithm)
+2. I made changes on UI.java by adding:
+                        line 55: butln;
+                        line 105: butln = new JButton("ln"); 
+                        line 141: butln.setFont(font); 
+                        line 179: panelSub5.add(butln); 
+                        line 213: butln.addActionListener(this); 
+                        line 293-294: if (source == butln)
+                                   writer(calc.calculateMono(Calculator.MonoOperatorModes.ln, reader())); 
+3. Changes on Calculator.java:
+                        line 26: ln;
+                        line 116-117: if (newMode == MonoOperatorModes.ln) {
+                                                       return log(num); }
+
+This is the result after update: 
+![image](https://user-images.githubusercontent.com/24220136/215251602-8fda4cd5-81a0-432c-bf1b-b0ef0bc640c1.png)
+
+
+Issue 86 - Author: Aleke89
+I am just learning git skills so thanks
+
+Issue 85 - Author: rula-services
+# Added
+
+Added:
+
++ Timer(schedule)
++ TimerTask(time: 2000)
++ Add text "Error", which locate in the end this java file.
+
+**Please publish my edition**
+
+Issue 84 - Author: PriscaTan
+ok
+
+Issue 83 - Author: jorianCheong
+Math.toDegrees() function is applied to test cases CalculateMonoSinTest(), void CalculateMonoCosTest() and void CalculateMonoTanTest().
+
+Issue 82 - Author: PriscaTan
+In Calculator.java,
+- "cube" is added into the "MonoOperaorModes"
+- new if statement is added, "if (newMode == MonoOperatorModes.cube)"
+
+In UI.java,
+- a cube button "x*x*x" is added
+
+Issue 81 - Author: YenYuen
+Calculator.java
+- Added Inverse Cosine function
+
+UI.java
+- Added Inverse Cosine button
+
+CalculatorTest.java
+- Added unit test for Inverse Cosine function
+
+Issue 80 - Author: rickieleehao
+Dark Mode Feature allow the application to have a darker UI.
+
+- added a button with action listener
+- added a changeBGColor method
+
+Issue 79 - Author: jorianCheong
+I wish to contribute a inverseSin function to the calculator
+
+Issue 78 - Author: PriscaTan
+None
+
+Issue 77 - Author: jorianCheong
+Adding new constant "inverseSin" into class "MonoOperatorModes".
+
+Adding new if statement "if (newMode == MonoOperatorModes.inverseSin)" into class "calculateMono"
+
+Issue 76 - Author: chenashe
+Added codes for inverse tangent function.
+
+Issue 75 - Author: YenYuen
+None
+
+Issue 74 - Author: yuhaofan1
+public class SimpleJavaCalculator
+
+Issue 73 - Author: JumperBot
+I took the **liberty** of prettifying your repository!
+
+Issue 72 - Author: labibkhan485
+None
+
+Issue 71 - Author: labibkhan485
+None
+
+Issue 70 - Author: amdadul-haque
+trying to merge
+
+Issue 69 - Author: naaimaqadeer
+None
+
+Issue 68 - Author: anik107
+None
+
+Issue 67 - Author: anik107
+None
+
+Issue 66 - Author: Neerajsharmak567
+neera
+
+Issue 65 - Author: Neerajsharmak567
+None
+
+Issue 64 - Author: vedantmgoyal2009
+SIngle statements under *if* statements do not need braces. Reduced Npath Complexity.
+
+Issue 63 - Author: tarhou
+please
+
+Issue 62 - Author: Dan-BaN
+
+
+Issue 61 - Author: bchadwic
+I had a blank JFrame when running the program. I moved the JFrame.setVisible(true); down to the bottom of the init() which ended up fixing that issue. I also thought it would be nice to see the operand chosen in the text box so I added that functionality. Lastly, I added a try catch to make sure the value being passed through after an operand is a number or clear so it the program doesnt break trying to convert an operand to a Double.
+
+Issue 60 - Author: jdevstatic
+When we add this service, it will count every hit of this repo. And this will guide us more about the visitors each day and will indicate the total views. For me, this is very helpful both for us and for those will view this repo seeing this page views. This can be simply added in the website also.
+
+![image](https://user-images.githubusercontent.com/47092464/98441456-610c9880-2139-11eb-9c4e-bb3d8b5cf5e5.png)
+
+Issue 59 - Author: Socrates-maker
+None
+
+Issue 57 - Author: amannchoudharyy
+
+
+Issue 56 - Author: Aayushpandey85
+This is more  attractive I think. 
+
+Issue 53 - Author: veermanav
+
+
+Issue 52 - Author: hemantguptaraj
+
+
+Issue 51 - Author: vcsolutions
+
+
+Issue 50 - Author: rupak16
+
+
+Issue 49 - Author: ajaynadar8
+
+
+Issue 48 - Author: ghost
+
+
+Issue 47 - Author: nawty10
+
+
+Issue 46 - Author: omijagtap
+
+
+Issue 45 - Author: IVANYOONG991230
+-Position of 0, C, =, sin, cos, tan, x*x, sqrt, 1/x, x^y are changed
+
+Issue 44 - Author: Aloysius911
+… to the position under the 8 button, Changed the variable name oneDevidedBy to oneDividedBy. Done by Shieh Eik.
+
+Issue 43 - Author: BrenoRFB
+
+
+Issue 42 - Author: junwei991021
+-changes text type, style and size in UI.java; added delta for assertEquals CalculatorTest.java; added external jars file 
+
+Issue 41 - Author: jho26
+
+
+Issue 40 - Author: erickjrogers
+Hi, I'm learning to make unit tests for a project I'm doing, so I thought I'd write some tests for your calculator. Let me know if you have any suggestions.
+
+Issue 39 - Author: Mskat
+Folder resources has been created in src.
+Moved folder icon to folder resources
+
+Issue 38 - Author: Chan-Lin
+テスト
+
+Issue 37 - Author: encarcio
+![Capture](https://user-images.githubusercontent.com/32518913/75180025-56ec6a80-5761-11ea-81de-fa0630cb59c7.PNG)
+
+On running the project on eclipse IDE , the above output is showing. 
+
+Issue 36 - Author: Usamaahmad751
+Make the Textarea field more comprehensive.
+
+Issue 35 - Author: jdevstatic
+hoping you will accept this, thanks!
+
+Issue 34 - Author: kwl3434
+
+
+Issue 33 - Author: jdevstatic
+just adding my name as one of the contributors, thanks 
+
+-- **xdvrx1**
+
+Issue 32 - Author: jdevstatic
+Good day.
+
+The `setIconImage` will simply not work when we are dealing with a jar file, because the contents inside might not actually be located. In order to fix that
+
+1. I added `BufferedImageCustom.java` to read the content properly and throw an exception if the file (`icon.png`) cannot be located.
+
+2. The UI constructor, in order to accept a method that throws an exception, I added `throws IOException`.
+
+3. The main method, in order to properly catch the exception, there should be the `try-catch` block.
+
+4. In order to mark this, I created another release, executable jar file included,
+<https://github.com/xdvrx1/Simple-Java-Calculator/releases/tag/v1.1.1>
+Again, the name of this release, is up to you when you want to include this in your repo.
+
+Thank you so much!
+
+Issue 31 - Author: Usamaahmad751
+Users can add any text through the keyboard in the text-area field and applications stop further working. That's not comprehensive, So I put applied the function setEditable(false) on text-area to prevent any input data from the keyboard users can only hit calculator buttons to calculate the data.
+
+Issue 30 - Author: jdevstatic
+# Project Proposed Changes
+1. Missing `{` supplied after `if (num % 90 == 0 && num % 180 != 0)`. Others might not notice this error immediately.
+
+2. Program icon added. But, I want my full reservation rights on this icon.
+
+3. GUI - instead of just using the `FlowLayout`, which automatically wraps the component, I added another one: the `BoxLayout`. Unlike the `FlowLayout`, this layout preserves the spaces. And in order for me to group several components together in several rows, I added several panels, then add it later to the main panel.
+
+4. Errors during creation of objects: the algorithm is the culprit. Objects must be created in the constructor, and the way the frame is set should be correct, for example `frame.add(panel)` should be invoked after all the contents were added first in sub panels and then in the main panel.
+
+5. I formally created the release jar file not in the main directory, but in the provided Releases feature of GitHub.
+
+Future changes I look forward to ...
+1. Unit Tests
+2. another text area to display the complete input
+3. exception messages
+
+Issue 29 - Author: jdevstatic
+You forgot to put the  `{` after `if (num % 90 == 0 && num % 180 != 0)` under `calculateMono` method. It is causing errors. Others might not be able to see that there is just missing `{` there to correct the errors.
+
+Issue 28 - Author: RathinapriyaMohan
+
+
+Issue 27 - Author: simostyl
+
+
+Issue 26 - Author: iamakanksha
+The suggested changes can be verified by running Solar Lint on Eclipse.
+Further I would like to add that Standard outputs should not be used directly to log anything .
+When logging a message there are several important requirements which must be fulfilled:
+• The user must be able to easily retrieve the logs 
+• The format of all logged message must be uniform to allow the user to easily read the log 
+• Logged data must actually be recorded 
+• Sensitive data must only be logged securely 
+
+If a program directly writes to the standard outputs, there is absolutely no way to comply with those requirements. That's why defining and using a dedicated logger is highly recommended.
+
+Issue 25 - Author: nadelrio
+This is a group effort that we felt that this application needed extra buttons. We added a pi, cubed, negative, and a backspace button.
+
+Issue 24 - Author: shreya2099
+
+
+Issue 23 - Author: mitraditya
+A function in Java to divide 2 numbers.
+
+Issue 22 - Author: mitraditya
+A function in Java to multiply 2 numbers
+
+Issue 21 - Author: mitraditya
+
+
+Issue 20 - Author: mitraditya
+
+
+Issue 19 - Author: SidaDan
+Hi,
+maybe could be helpfully to know the result as binary.
+
+Regards Frank
+
+Issue 18 - Author: TechDevSubhopriyo
+I have put a check if num2 is zero, then the num1 will be returned after addition.
+I have also added a check for Math.tan
+
+Issue 17 - Author: AnthonyK88
+Code updates to the UI including window resize support, title update, and confirm on close support.
+
+Issue 16 - Author: mansya
+
+
+Issue 15 - Author: ItzSgtTanker
+Hello all! i decided to add an absolute value function to the calculator as most calculators have this option.
+![SharedScreenshot](https://user-images.githubusercontent.com/43177717/60698778-aa4e3780-9eb6-11e9-97a7-43c185c9f278.jpg)
+
+
+Issue 14 - Author: mansya
+Good day sir. I am a graphic designer and i am interested in designing a logo for your good project. I will be doing it as a gift for free. I just need your permission first before I begin my design. Hoping for your positive feedback. Thanks
+
+Issue 13 - Author: sildvauresberg
+Fixed an issue.
+
+Issue 12 - Author: nikosdraga
+Addition of the operators to compute the factorial of a number, modulo between two numbers and the natural logarithm (ln) of a number.
+
+Issue 11 - Author: simpman4
+
+
+Issue 10 - Author: fibonacci998
+I found error when click 1+0=
+
+![screenshot 2018-05-03 17 00 46](https://user-images.githubusercontent.com/38557844/39570803-b90a4a02-4ef3-11e8-9fb6-3c3a30efc140.png)
+
+
+Issue 9 - Author: opheliagame
+There is a folder called private under the nbproject folder. This folder contains private information that is machine specific and not project specific.
+According to the following link:
+[http://docs.oracle.com/cd/E50453_01/doc.80/e50452/create_japps.htm#NBDAG2974](url)
+
+> If the project is checked out of a version control system, the build (or nbbuild), dist (or nbdist), and the nbproject/private folders should not be checked into that version control system. If the project is under the CVS, Subversion, or Mercurial version control systems, the appropriate "ignore" files are created or updated for these directories when the project is imported. Though nbproject/private should be ignored, nbproject should be checked into the version control system. nbproject contains project metadata that enables other users to open the project in NetBeans without having to import the project first.
+
+
+Issue 8 - Author: xatza
+Hello,
+Specifically i add x^y button,which calculates x(first number) power of y(second number).Second button is log10(x),which calculates the logarithm of a number x.Finally i add x% button,which calculates the percentage of the number x.
+I hope you find it helpful.
+
+Friendly,
+Donis Chantzaridis
+
+![2f4e7b4079cfb65c4c1d7128b06801ae](https://user-images.githubusercontent.com/20843685/34655669-54fb8f40-f416-11e7-8d3f-e78bacc0942f.png)
+
+
+Issue 7 - Author: xatza
+Hello,
+I appreciate your work,i really like your project.
+I try to extend your code,so i add three new buttons.
+Specifically i add x^y button,which calculates x(first number) power of y(second number).Second button is log10(x),which calculates the logarithm of a number x.Finally i add x% button,which calculates the percentage of the number x.
+I also upload the files with changes,so you can check it.
+I hope you find it helpful.
+
+Friendly,
+Donis Chantzaridis
+
+![2f4e7b4079cfb65c4c1d7128b06801ae](https://user-images.githubusercontent.com/20843685/34655528-e222e970-f413-11e7-9112-24b2964ac7de.png)
+
+
+Issue 6 - Author: xatza
+Hello,
+I appreciate your work,i really like your project.
+I try to extend your code,so i add three new buttons.
+Specifically i add x^y button,which calculates x(first number) power of y(second number).Second button is log10(x),which calculates the logarithm of a number x.Finally i add x% button,which calculates the percentage of the number x.
+I also upload the files with changes,so you can check it.
+I hope you find it helpful.
+
+Friendly,
+Donis Chantzaridis
+
+
+[simplejavacalculator.zip](https://github.com/pH-7/Simple-Java-Calculator/files/1603306/simplejavacalculator.zip)
+![2f4e7b4079cfb65c4c1d7128b06801ae](https://user-images.githubusercontent.com/20843685/34563666-27c31348-f15c-11e7-9fdc-15e6a7d24669.png)
+
+
+
+
+Issue 5 - Author: shieldcharm
+
+
+Issue 4 - Author: hczhcz
+
+
+Issue 3 - Author: Halation-Effect
+Added arrays for creating numeric JButtons, adding to panel, adding ActionListener, and listening for button.
+
+
+Issue 2 - Author: achinthagunasekara
+Functions such as x*x, (x)y, sin(x), cos(x), tax(x), 1/y were added
+
+
+Issue 1 - Author: superSMs
+
+
