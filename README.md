@@ -32,11 +32,14 @@ Project Stages:
 
 Team Members:
 -
-     Cantu, Jesus
+     Cantu, Jesus (GitHub Username: JESUSC)
      Ali, Faisel
      Hafner, Trevor
      Tesillos, Angel 
      
 Team Members Contributions:
 -
-          Cantu, Jesus: Created repository, wrote scripts to: collect issues/commits, process the data (e.g., create new columns based on datetime information), and  analyze issue data (e.g., correlation analysis, time-series plots)
+          Cantu, Jesus: Created repository, wrote scripts in Python to:
+                        Collect issues/commits along attributes of interest for specific repos, 
+                        Process the data (e.g., create new columns based on datetime information) and
+                        Analyze/Visualize issue data (e.g., correlation analysis, time-series plots)
