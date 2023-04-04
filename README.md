@@ -6,3 +6,4 @@ Project for COMP 470: Software Quality &amp; Testing
 ![image]({https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white})
 
 
+<img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />
