@@ -25,9 +25,9 @@ Project Stages:
              Identify attributes of interest (e.g., tree, size, path etc.),
              Use aggregation over size to compute the code size for this commit and 
              Visualize and analyze data in various ways 
-   
-   Stage 4: Combine the issue data from step 1 with the code size data and 
-            Visualize and analyze data in various ways
+    
+    Stage 4: Combine the issue data from step 1 with the code size data and 
+             Visualize and analyze data in various ways
 
 
 Team Members:
