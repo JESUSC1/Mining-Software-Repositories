@@ -1,5 +1,11 @@
 """
-This code reads CSV files from an input directory, processes them by creating new columns based on datetime information, and writes the resulting dataframes to CSV files in an output directory. The code checks the output directory to only process new files that have not already been processed.
+This code reads CSV files from an input directory, 
+processes them by creating new columns based on datetime information, 
+and writes the resulting dataframes to CSV files in an output directory. 
+The code checks the output directory to only process new files 
+that have not already been processed.
+
+Script Author: Jesus Cantu
 """
 # Import required libraries 
 import os

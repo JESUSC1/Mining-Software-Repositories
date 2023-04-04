@@ -3,6 +3,8 @@ This code fetches data for a repository from the GitHub API and saves it to a CS
 and a text file. The CSV file contains information about the repository's issues, 
 such as the issue ID, state, labels, assignees, number of comments, created and closed dates, 
 and whether the issue is locked. The text file contains the comments for each issue.
+
+Script Author: Jesus Cantu
 """
 
 # Import required libraries 
