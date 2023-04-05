@@ -1,7 +1,7 @@
 # MiningSoftwareRepositories
-Project for COMP 470: Software Quality &amp; Testing 
+Project for COMP 370/470: Software Quality &amp; Testing 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JESUSC1/MiningSoftwareRepositories.git/Master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JESUSC1/MiningSoftwareRepositories.git/HEAD)
 
 Project: 
 -
@@ -43,3 +43,5 @@ Team Members Contributions:
                         Collect issues/commits along attributes of interest for specific repos, 
                         Process the data (e.g., create new columns based on datetime information) and
                         Analyze/Visualize issue data (e.g., correlation analysis, time-series plots)
+
+	  Hafner, Trevor: Made some small edits to the README file.
