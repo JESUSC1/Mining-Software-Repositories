@@ -6,7 +6,7 @@ Project for COMP 470: Software Quality &amp; Testing
 Project: 
 -
     Build an automated data pipeline to mine information from software repositories hosted on GitHub. 
-    Instructions can be found under 'COMP 370_470_Week 9.pdf' (Pages 14-15). 
+    Complete instructions can be found under 'COMP 370_470_Week 9.pdf' (Pages 14-15). 
 
 Project Stages: 
 -
@@ -15,7 +15,7 @@ Project Stages:
              Identify attributes of interest (e.g., state, labels, assignees, etc.) and 
              Visualize and analyze data in various ways 
     
-    Stage 2: Pull all commits for the given owner and repo=,
+    Stage 2: Pull all commits for the given owner and repo,
              Request parameters (e.g., page, per page),
              Identify attributes of interest (e.g., date, commit, commiter, tree, url, etc.) and 
              Visualize and analyze data in various ways 
@@ -32,14 +32,14 @@ Project Stages:
 
 Team Members:
 -
-     Cantu, Jesus (GitHub Username: JESUSC)
-     Ali, Faisel
-     Hafner, Trevor
-     Tesillos, Angel 
+     Cantu, Jesus (GitHub Username: JESUSC1)
+     Ali, Faisel (GitHub Username: gutgut-net)
+     Hafner, Trevor (GitHub Username: thafner0)
+     Tesillos, Angel (GitHub Username: atesillos)
      
 Team Members Contributions:
 -
           Cantu, Jesus: Created repository, wrote scripts in Python to:
                         Collect issues/commits along attributes of interest for specific repos, 
                         Process the data (e.g., create new columns based on datetime information) and
-                        Analyze/Visualize issue data (e.g., correlation analysis, time-series plots)
+                        Analyze/Visualize issue data for Stage 1 (e.g., correlation analysis, time-series plots)
