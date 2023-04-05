@@ -1,7 +1,7 @@
 # MiningSoftwareRepositories
-Project for COMP 470: Software Quality &amp; Testing 
+Project for COMP 370/470: Software Quality &amp; Testing 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JESUSC1/MiningSoftwareRepositories.git/Master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JESUSC1/MiningSoftwareRepositories.git/HEAD)
 
 Project: 
 -
@@ -25,9 +25,9 @@ Project Stages:
              Identify attributes of interest (e.g., tree, size, path etc.),
              Use aggregation over size to compute the code size for this commit and 
              Visualize and analyze data in various ways 
-   
-   Stage 4: Combine the issue data from step 1 with the code size data and 
-            Visualize and analyze data in various ways
+    
+    Stage 4: Combine the issue data from step 1 with the code size data and 
+             Visualize and analyze data in various ways
 
 
 Team Members:
@@ -43,3 +43,10 @@ Team Members Contributions:
                         Collect issues/commits along attributes of interest for specific repos, 
                         Process the data (e.g., create new columns based on datetime information) and
                         Analyze/Visualize issue data for Stage 1 (e.g., correlation analysis, time-series plots)
+                        
+        Hafner, Trevor: Made some small edits to the README file.
+                        Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
+            
+
+			
+>>>>>>> d09a1317813e1b29440038254ad532364b0ea61d
