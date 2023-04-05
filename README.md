@@ -15,7 +15,7 @@ Project Stages:
              Identify attributes of interest (e.g., state, labels, assignees, etc.) and 
              Visualize and analyze data in various ways 
     
-    Stage 2: Pull all commits for the given owner and repo=,
+    Stage 2: Pull all commits for the given owner and repo,
              Request parameters (e.g., page, per page),
              Identify attributes of interest (e.g., date, commit, commiter, tree, url, etc.) and 
              Visualize and analyze data in various ways 
@@ -42,7 +42,7 @@ Team Members Contributions:
           Cantu, Jesus: Created repository, wrote scripts in Python to:
                         Collect issues/commits along attributes of interest for specific repos, 
                         Process the data (e.g., create new columns based on datetime information) and
-                        Analyze/Visualize issue data (e.g., correlation analysis, time-series plots)
+                        Analyze/Visualize issue data for Stage 1 (e.g., correlation analysis, time-series plots)
 
 	  Hafner, Trevor: Made some small edits to the README file.
 			  Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
