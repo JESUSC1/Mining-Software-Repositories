@@ -45,3 +45,4 @@ Team Members Contributions:
                         Analyze/Visualize issue data (e.g., correlation analysis, time-series plots)
 
 	  Hafner, Trevor: Made some small edits to the README file.
+			  Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
