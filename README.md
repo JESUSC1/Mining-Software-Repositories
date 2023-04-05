@@ -43,6 +43,5 @@ Team Members Contributions:
                         Collect issues/commits along attributes of interest for specific repos, 
                         Process the data (e.g., create new columns based on datetime information) and
                         Analyze/Visualize issue data for Stage 1 (e.g., correlation analysis, time-series plots)
-
-	  Hafner, Trevor: Made some small edits to the README file.
-			  Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
+	Hafner, Trevor: Made some small edits to the README file.
+			Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
