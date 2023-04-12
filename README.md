@@ -42,14 +42,13 @@ Team Members Contributions:
         Cantu, Jesus: Created repository, wrote scripts in Python to:
                       Collect issues/commits along attributes of interest for specific repos, 
                       Process the data (e.g., create new columns based on datetime information) and
-                      Analyze/Visualize issue data for Stage 1 (e.g., correlation analysis, time-series plots)
-                      Analyze/Visualize issue data for Stage 2 (e.g., time-series plots)
+                      Analyze/Visualize issue and commit data for Stages 1-4 (e.g., correlation analysis, time-series plots)
 			
-	    Tesillos, Angel: Worked on 
+	    Tesillos, Angel: Worked on...
                         
-        Hafner, Trevor: Made some small edits to the README file.
-                        Commenced on the work for the Stage 4 comparison between the number of open issues and the code size.
+        Hafner, Trevor: Worked on presentation. 
+                        
             
-
+        Ali, Faisel: Worked on presentation. 
 			
 >>>>>>> d09a1317813e1b29440038254ad532364b0ea61d
