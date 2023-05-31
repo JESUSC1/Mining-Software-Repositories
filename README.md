@@ -29,26 +29,5 @@ Project Stages:
     Stage 4: Combine the issue data from step 1 with the code size data and 
              Visualize and analyze data in various ways
 
-
-Team Members:
--
-     Cantu, Jesus (GitHub Username: JESUSC1)
-     Ali, Faisel (GitHub Username: gutgut-net)
-     Hafner, Trevor (GitHub Username: thafner0)
-     Tesillos, Angel (GitHub Username: atesillos)
-     
-Team Members Contributions:
--
-        Cantu, Jesus: Created repository, wrote scripts in Python to:
-                      Collect issues/commits along attributes of interest for specific repos, 
-                      Process the data (e.g., create new columns based on datetime information) and
-                      Analyze/Visualize issue and commit data for Stages 1-4 (e.g., correlation analysis, time-series plots)
-			
-	    Tesillos, Angel: Worked on...
-                        
-        Hafner, Trevor: Worked on presentation. 
-                        
-            
-        Ali, Faisel: Worked on presentation. 
 			
 >>>>>>> d09a1317813e1b29440038254ad532364b0ea61d
