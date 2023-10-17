@@ -53,7 +53,7 @@ The project employs a systematic approach, starting from data collection to deta
 - Integrated diverse data sources, facilitating comprehensive analysis and visualizations.
 
 ## Conclusion
-The "Mining Software Repositories" project showcases the potential of data mining in understanding the intricacies of software development. Through methodical stages of data extraction, processing, and analysis, this project offers valuable insights into the dynamics of software repositories.
+The "Mining-Software-Repositories" project showcases the potential of data mining in understanding the intricacies of software development. Through methodical stages of data extraction, processing, and analysis, this project offers valuable insights into the dynamics of software repositories.
 
 ## Future Work
 - Enhance the granularity of data extraction to capture finer details of repositories.
