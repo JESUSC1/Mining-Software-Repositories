@@ -1,6 +1,6 @@
 # Mining Software Repositories
 
-![GitHub Image](GitHub.jpg)
+<img src="github-logo.jpeg" alt="GitHub Image" width="450">
 
 ## Project Description
 The objective of this project is to develop an automated data pipeline to mine information from software repositories hosted on GitHub. Complete guidelines for this endeavor are provided in 'COMP 370_470_Week 9.pdf' (Pages 14-15).
